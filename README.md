@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuanVuCs
-- 🌱 I’m currently 3rd year student at HCMUT, my major is Computer Science.
+- 🌱 I’m currently final year student at HCMUT, my major is Computer Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
